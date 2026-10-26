@@ -2,7 +2,7 @@
 
 An interactive music course, from the first note to advanced harmony, with full methods for the grand piano, the electronic keyboard and the guitar.
 
-**Open the course:** https://rakeshnaik1109-cloud.github.io/RNKey-String/
+**Open the course:** https://rakeshnaik1109-cloud.github.io/RNKeyStringX/
 
 - 32 chapters in seven parts, plus appendices (chord dictionary, scales and keys, glossary, practice room)
 - Playable scores: every example can be heard, slowed down, looped and played on an on-screen keyboard or guitar neck
